@@ -1,0 +1,14 @@
+{
+    "name": "tutorialspoint-yii2/hello-world",
+    "authors": [
+        {
+            "name": "tutorialspoint-yii2"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
